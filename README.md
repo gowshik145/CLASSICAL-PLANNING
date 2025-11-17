@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-## NAME:GOWSHIK S
+## NAME: GOWSHIK S
 ## REGISTER NUMBER: 212223220026
 
 # Algorithm or Steps Involved:
